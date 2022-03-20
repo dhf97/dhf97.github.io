@@ -464,7 +464,7 @@ pre[class*='highlight'] {
 }
 @media (max-width: 862px) {
   .archive-widget {
-    display: none;
+    display: flex;
   }
 }
 .card-author {
@@ -525,7 +525,7 @@ pre[class*='highlight'] {
 }
 @media (max-width: 862px) {
   .card-author {
-    display: none;
+    display: flex;
     margin-bottom: 0.8rem;
   }
 }
@@ -702,7 +702,7 @@ pre[class*='highlight'] {
 }
 @media (max-width: 862px) {
   .categories-widget {
-    display: none;
+    display: flex;
   }
 }
 .image-wrapper {
@@ -1353,7 +1353,7 @@ mjx-container svg:focus {
 }
 @media (max-width: 862px) {
   .tags-widget {
-    display: none;
+    display: flex;
   }
 }
 .toc-card {
